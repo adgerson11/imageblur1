@@ -1,7 +1,7 @@
 class Image
 
-    def initialize(pixels)
-      @image = pixels
+    def initialize(image)
+      @image = image
     end 
 
     def output_image
